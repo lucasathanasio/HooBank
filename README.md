@@ -1,16 +1,41 @@
-# React + Vite
+#  Landing Page HooBank com React e Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Tecnologias](https://skillicons.dev/icons?i=react,tailwind,js,html,css,vite&theme=dark)](https://skillicons.dev)
 
-Currently, two official plugins are available:
+## Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este é um projeto de uma landing page para o HooBank desenvolvido usando **React** e **Tailwind**, baseado em um [projeto do JavaScript Mastery](https://www.youtube.com/watch?v=_oO4Qi5aVZs).
 
-## React Compiler
+A aplicação apresenta uma interface responsiva e moderna para um banco digital, destacando serviços financeiros, controle de pagamentos, benefícios de cartões e chamadas para ação estratégicas.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O projeto utiliza componentes reutilizáveis e organização modular para manter o código limpo e escalável.
 
-## Expanding the ESLint configuration
+## Características do projeto:
+- Layout totalmente responsivo, desde ceulares até computadores <br>
+- Componentes reutilizáveis <br>
+- Design moderno com gradientes e efeitos visuais
+- Estrutura organizada e escalável
+- Seções como:
+  - Hero
+  - Features
+  - Billing
+  - Card Deal
+  - Testimonials
+  - Call To Action (CTA)
+  - Footer
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Como Rodar o Projeto
+1. Clone o repositório: <br>
+   ```git clone https://github.com/seuuser/HooBank.git``` <br>
+   
+2. Entre na pasta do projeto: <br>
+   ```cd HooBank``` <br>
+   
+3. Instale as dependências: <br>
+```npm install``` <br>
+
+4. Inicie o servidor de desenvolvimento: <br>
+```npm run dev``` <br>
+
+5. Abra o navegador no endereço que o Vite indicar: <br>
+(Geralmente ```http://localhost:5173```)
