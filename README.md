@@ -1,5 +1,11 @@
 #  Landing Page HooBank com React e Tailwind CSS
 
+## 📷 Prévia
+
+<img width="1300" height="642" alt="image" src="https://github.com/user-attachments/assets/aacf6771-9bb3-4a8b-8138-020c8444cfc3" />
+
+<br> 
+
 [![Deploy na Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://hoobank-puce.vercel.app)
 
 [![Tecnologias](https://skillicons.dev/icons?i=react,tailwind,js,html,css,vite&theme=dark)](https://skillicons.dev)
